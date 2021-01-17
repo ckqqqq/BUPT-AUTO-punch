@@ -11,6 +11,8 @@
 
 自行搭建或者将校园网账号信息发给 ckqqqq@bupt.edu.cn
 
+欢迎star和fork
+
 不要告诉导员,不然我就GG了
 
 
