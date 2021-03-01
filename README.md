@@ -12,7 +12,7 @@ https://blog.csdn.net/weixin_42610260/article/details/107285137
 
 搭建环境:腾讯云服务器
 
-自行搭建或者将校园网账号信息发给 ckqqqq@bupt.edu.cn
+自行搭建或者将校园网账号信息发给 ckqqqq@bupt.edu.cn (请先阅读Privacy_Policy文档)
 
 欢迎star和fork
 
