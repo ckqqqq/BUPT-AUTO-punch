@@ -1,5 +1,8 @@
 # -
 北邮每日填报自动打卡 邮件提醒
+参考:
+https://zhuanlan.zhihu.com/p/127156300
+https://blog.csdn.net/weixin_42610260/article/details/107285137
 
 警告:该脚本定于早上9九点自动执行,为忘记打卡的兜底措施
 如果有 体温异常/前往中风险地区/地址变更 
